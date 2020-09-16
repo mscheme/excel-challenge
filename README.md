@@ -7,4 +7,4 @@ The StarterBook.xlsx file contains the original data, additional formuals, forma
 
 An analysis is provided in the file Excel Challenge Analysis.docx
 
-This assignment provides examples of: conditional formation, excel formulas, pivot tables, pivot charts, and basic use of some statistical formuals.
+This assignment provides examples of: conditional formatting, excel formulas, pivot tables, pivot charts, and basic use of some statistical formuals.
